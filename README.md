@@ -1,5 +1,8 @@
 # widget-example
-
+```
+NAMA    : MARIO NURROHMAN
+NPM     : 213510006
+```
 ## Project setup
 ```
 npm install
